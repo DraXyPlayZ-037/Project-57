@@ -1,0 +1,30 @@
+hr {
+    width:200px;
+}
+
+#coding {
+    font-size:29px;
+    font-family: inherit;
+}
+
+
+#mfh {
+    font-size:40px;
+    font-family:cursive;
+    color:navy;
+}
+
+body {
+    background: linear-gradient(lightblue,lightgreen,lightyellow);
+}
+
+#sp {
+    color:darkorange;
+}
+
+#fp {
+    color:darkgreen;
+    font-family: fantasy,"fantasy";
+}
+
+
